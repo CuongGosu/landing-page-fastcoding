@@ -118,7 +118,7 @@ main .new-feature .bg-container {
   height: 70.7rem;
   width: 100%;
   background: url("/img/bg_newfeatured.jpg") no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
   background-position: center;
   position: absolute;
   bottom: 0;
@@ -192,7 +192,7 @@ main .section-client p {
 }
 main .section-client .swiper {
   width: 100%;
-  height: auto;
+  height: 100%;
   background-image: transparent;
 }
 main .section-client .swiper-slide {
@@ -349,4 +349,4 @@ footer .row .socials i {
   font-weight: 500;
 }
 
-/*# sourceMappingURL=app.css.map */
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,416 @@
+/**************************/
+/* BELOW  1200px */
+/**************************/
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+  h1 {
+    line-height: 6rem;
+  }
+  /* featured-area */
+  .featured-area .container h1 {
+    max-width: 70.8rem;
+    height: 12rem;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+  .featured-area .container .icon i {
+    color: #323969;
+    font-size: 5.9rem;
+    margin-bottom: 3rem;
+  }
+  .featured-area .container button {
+    border-radius: 0.3rem;
+    width: 19rem;
+    height: 5rem;
+    font-size: 1.6rem;
+    color: #ffffff;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+  }
+  .featured-area .container p {
+    font-weight: 400;
+    opacity: 0.6;
+  }
+  main .new-design .col-md-7 {
+    padding: 0 10rem;
+  }
+  main .new-feature {
+    height: 62.5rem;
+  }
+  main .new-feature .bg-container h6 {
+    margin-top: 10rem;
+  }
+  main .new-feature .bg-container h2 {
+    margin-bottom: 5rem;
+  }
+  main .new-feature .bg-container .row {
+    width: 90rem;
+  }
+  main .new-feature .bg-container .figure img {
+    border-radius: 50%;
+    margin-bottom: 2rem;
+  }
+  main .new-feature .bg-container .figure h3 {
+    margin-bottom: 1rem;
+  }
+  main .new-feature .bg-container .figure p {
+    opacity: 0.66;
+  }
+  main .new-feature-2 h6 {
+    margin-bottom: 1.5rem;
+  }
+  main .new-feature-2 h2 {
+    margin-bottom: 3rem;
+  }
+  main .new-feature-2 .col_2 {
+    padding-right: 10rem;
+  }
+  main .section-client {
+    height: 60rem;
+    padding-top: 8rem;
+  }
+  main .section-client .row {
+    width: 90rem;
+  }
+  main .section-client img {
+    margin-bottom: 2.5rem;
+  }
+  main .section-client h3 {
+    margin-bottom: 1.5rem;
+  }
+  main .section-client h6 {
+    margin-bottom: 2rem;
+  }
+  main .section-client p {
+    color: #ffffff;
+    opacity: 0.66;
+    margin-bottom: 5rem;
+  }
+  main .new-feature-3 {
+    padding-top: 5rem;
+  }
+  main .new-feature-3 h6 {
+    margin-bottom: 1rem;
+  }
+  main .new-feature-3 h2 {
+    margin-bottom: 3rem;
+  }
+  main .new-feature-3 p {
+    width: 75rem;
+    font-weight: 500;
+    opacity: 0.66;
+    padding: 0 5rem;
+    margin-bottom: 5rem;
+  }
+  main .new-feature-4 {
+    height: 40rem;
+  }
+  main .new-feature-4 h6 {
+    margin-top: 5rem;
+  }
+  main .new-feature-4 .row {
+    width: 90rem;
+    gap: 3rem;
+  }
+  main .new-feature-4 .row .input-group {
+    padding-top: 3rem;
+  }
+  main .new-feature-4 .row input {
+    padding: 1rem;
+    background-color: #484c7c;
+    padding-left: 2rem;
+    border-radius: 0.3rem;
+  }
+  main .new-feature-4 .row button {
+    height: 4.6rem;
+  }
+  main .new-feature-4 .row .col_4 div {
+    gap: 1rem;
+    height: 3rem;
+  }
+  main .new-feature-4 .row .col_4 div p {
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.4rem;
+    padding-bottom: 7rem;
+    opacity: 1;
+  }
+  main .new-feature-4 .row .col_4 div img {
+    height: 3rem;
+  }
+  main .new-feature-4 h2 {
+    color: #ffffff;
+  }
+  main .new-feature-4 p {
+    margin-top: 5rem;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #f6f5f3;
+    opacity: 0.6;
+  }
+  footer {
+    height: 30rem;
+    background-position: bottom right;
+  }
+  footer .row {
+    width: 90rem;
+  }
+  footer .row img {
+    transform: translateY(-40%);
+  }
+  footer .row a,
+  footer .row p {
+    font-size: 1.4rem;
+  }
+  footer .row h3 {
+    margin-bottom: 2rem;
+  }
+  footer .row p {
+    margin-bottom: 0;
+  }
+  footer .row ul li {
+    margin-bottom: 1.5rem;
+  }
+  footer .row input {
+    width: 20rem;
+    height: 5rem;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+    background-color: #f6f6f6;
+    color: #000000;
+    border-radius: 3px;
+    padding-left: 2.5rem;
+    opacity: 0.4;
+  }
+  footer .row .input-group-text {
+    height: 5rem;
+    width: 5rem;
+  }
+  footer .row .input-group-text i {
+    font-size: 1.6rem;
+  }
+  footer .row .socials i {
+    font-size: 1.6rem;
+  }
+}
+/**************************/
+/* BELOW  1008px  MOBILE*/
+/**************************/
+@media (max-width: 63em) {
+  html {
+    font-size: 50%;
+  }
+  h1 {
+    line-height: 6rem;
+  }
+  footer {
+    height: 30rem;
+    background-position: bottom right;
+  }
+  footer .row {
+    padding-top: 5rem;
+    width: 70rem;
+  }
+  footer .row img {
+    transform: translateY(-50%);
+    height: 5rem;
+  }
+  footer .row a,
+  footer .row p {
+    font-size: 1.4rem;
+  }
+  footer .row h3 {
+    margin-bottom: 1.5rem;
+  }
+  footer .row p {
+    margin-bottom: 2rem;
+  }
+  footer .row ul li {
+    margin-bottom: 1.5rem;
+  }
+  footer .row input {
+    width: 20rem;
+    height: 4rem;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+    padding-left: 2.5rem;
+  }
+  footer .row .input-group-text {
+    height: 5rem;
+    width: 5rem;
+  }
+  footer .row .input-group-text i {
+    font-size: 1.6rem;
+  }
+  footer .row .socials i {
+    font-size: 1.6rem;
+  }
+}
+/**************************/
+/* BELOW 860px - PHONES */
+/**************************/
+@media (max-width: 54em) {
+  main .new-design .col-md-7 {
+    padding: 0 5rem;
+  }
+}
+/**************************/
+/* BELOW 768px - PHONES */
+/**************************/
+@media (max-width: 48em) {
+  html {
+    font-size: 43.75%;
+  }
+  main .new-design .col-md-7 {
+    padding: 0 4rem;
+  }
+  main .new-design h6 {
+    margin-bottom: 1rem;
+  }
+  main .new-design h2 {
+    margin-bottom: 3rem;
+  }
+  main .new-design p {
+    margin-bottom: 2rem;
+  }
+  main .new-feature-2 h6 {
+    margin-bottom: 1.5rem;
+  }
+  main .new-feature-2 h2 {
+    margin-bottom: 2rem;
+  }
+  main .new-feature-2 .col_2 {
+    padding-right: 6rem;
+  }
+  main .section-client .swiper-slide img {
+    height: 45%;
+  }
+  main .new-feature-4 {
+    height: 40rem;
+  }
+  main .new-feature-4 h6 {
+    margin-top: 3rem;
+  }
+  main .new-feature-4 .row {
+    width: 65rem;
+    gap: 1rem;
+  }
+  main .new-feature-4 .row button {
+    margin-top: 1rem;
+  }
+  main .new-feature-4 .row .col_4 div {
+    gap: 0.5rem;
+    height: 4.6rem;
+  }
+  main .new-feature-4 .row .col_4 div p {
+    font-size: 1.3rem;
+    padding-bottom: 4rem;
+    opacity: 1;
+  }
+  main .new-feature-4 .row .col_4 div img {
+    height: 2.5rem;
+  }
+  footer {
+    height: 30rem;
+    background-position: bottom right;
+  }
+  footer .row {
+    padding-top: 5rem;
+    width: 70rem;
+  }
+  footer .row img {
+    transform: translateY(-10%);
+    height: 4.5rem;
+  }
+}
+/**************************/
+/* BELOW 576px - PHONES */
+/**************************/
+@media (max-width: 36em) {
+  html {
+    font-size: 37.5%;
+  }
+  main .new-design .col-md-7 {
+    padding: 0 3rem;
+  }
+  main .new-design h6 {
+    margin-bottom: 1rem;
+  }
+  main .new-design h2 {
+    margin-bottom: 2rem;
+  }
+  main .new-design p {
+    margin-bottom: 1rem;
+  }
+  main .new-feature-2 h6 {
+    margin-bottom: 1.5rem;
+  }
+  main .new-feature-2 h2 {
+    margin-bottom: 2rem;
+  }
+  main .new-feature-2 .col_2 {
+    padding-right: 2rem;
+  }
+  main .new-feature-3 {
+    padding-top: 3rem;
+  }
+  main .new-feature-3 p {
+    margin-bottom: 2rem;
+  }
+  main .section-client .swiper-slide img {
+    height: 45%;
+  }
+  main .section-client .row {
+    width: 75rem;
+  }
+  main .section-client img {
+    height: 25%;
+    width: auto;
+    margin-bottom: 1rem;
+  }
+  main .section-client h3 {
+    margin-bottom: 0.5rem;
+  }
+  main .section-client h6 {
+    letter-spacing: normal;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+  }
+  main .section-client p {
+    opacity: 0.66;
+    margin-bottom: 1rem;
+  }
+  main .section-client .swiper {
+    transform: translateY(-20%);
+  }
+  main .section-client .swiper-slide img {
+    height: 30%;
+  }
+}
+/**************************/
+/* BELOW 486px - SMALL PHONES */
+/**************************/
+@media (max-width: 30em) {
+  html {
+    font-size: 31.25%;
+  }
+  main .section-client .swiper {
+    transform: translateY(-30%);
+  }
+}
+/**************************/
+/* BELOW 405px - SMALL PHONES */
+/**************************/
+@media (max-width: 25em) {
+  html {
+    font-size: 25%;
+  }
+  main .section-client .swiper {
+    transform: translateY(-50%);
+  }
+}
+
+/*# sourceMappingURL=queries.css.map */
